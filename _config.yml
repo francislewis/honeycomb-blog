@@ -1,13 +1,10 @@
 # Site settings
 title:       Honeycomb Blog
 email:       contact@honeycombskate.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Francis Lewis
+description: "Honeycomb Skateboards blog - keep up to date with skateboarding in South Wales. For that sweet ride."
 baseurl:     ""
 url:         "http://pixyll.com"
-
-# Google analytics
-google_analytics:
 
 # Optional features
 animated:           false
