@@ -1,43 +1,5 @@
 # Pixyll
 
-[pixyll.com](http://www.pixyll.com)
-
-![Pixyll screenshot](https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png)
-
-Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
-
-It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
-
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
-
-中文版 <https://github.com/ee0703/pixyll-zh-cn>.
-
-## Getting Started
-
-If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
-
-### Installing Jekyll
-
-If you don't have Jekyll already installed, you will need to go ahead and do that.
-
-```
-$ gem install jekyll
-```
-
-#### Verify your Jekyll version
-
-It's important to also check your version of Jekyll since this project uses Native Sass which
-is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0-0/).
-
-```
-$ jekyll -v
-# This should be jekyll 2.0.0 or later
-```
-
-### Fork, then clone
-
-Fork the repo, and then clone it so you've got the code locally.
 
 ### Modify the _config.yml
 
